@@ -1,0 +1,16 @@
+{
+  "name": "besu-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/tx": "^4.1.1",
+    "solc": "^0.8.19",
+    "web3": "^1.9.0"
+  }
+}

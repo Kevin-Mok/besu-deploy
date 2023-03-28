@@ -1,0 +1,4 @@
+module.exports = {
+  // https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key
+  'privateKey' : ''
+}
